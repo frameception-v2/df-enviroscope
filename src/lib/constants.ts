@@ -1,3 +1,3 @@
-export const PROJECT_ID = 'farcaster-frames-template';
-export const PROJECT_TITLE = "Farcaster Frames Template";
-export const PROJECT_DESCRIPTION = "A Farcaster Frames v2 Template by hellno";
+export const PROJECT_ID = 'farcaster-env-explorer';
+export const PROJECT_TITLE = "Farcaster Environment Explorer";
+export const PROJECT_DESCRIPTION = "See all the context variables in your Farcaster Frame";
